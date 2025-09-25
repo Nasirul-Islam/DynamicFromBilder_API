@@ -1,0 +1,6 @@
+@DynamicFromBilderAPI_HostAddress = http://localhost:5064
+
+GET {{DynamicFromBilderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
